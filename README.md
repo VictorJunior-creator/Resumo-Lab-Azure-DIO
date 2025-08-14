@@ -6,3 +6,10 @@ Achei o vídeo claro e objetivo, pois ajudou a entender a organização do Azure
 
 ### Segundo "lab"
 O vídeo apresentou benefícios como escalabilidade, flexibilidade, segurança e alta disponibilidade. Foi mencionada a questão do SLA (Service Level Agreement), ressaltando que a disponibilidade garantida pode variar conforme a forma como o ambiente é criado e configurado. Também foram mostradas as opções de redundância de armazenamento: LRS, ZRS, GRS e GZRS.
+
+### Terceiro "lab"
+O vídeo apresentou os principais modelos de serviço em nuvem: IaaS (Infrastructure as a Service), PaaS (Platform as a Service) e SaaS (Software as a Service), explicando também o modelo de responsabilidade compartilhada, mostrando claramente o que é responsabilidade do cliente e o que é responsabilidade da Microsoft. Foram destacados os casos de uso apropriados para cada tipo de serviço, ajudando a entender quando usar IaaS, PaaS ou SaaS dependendo da necessidade do projeto ou da aplicação.
+
+Além disso, o vídeo trouxe exemplos práticos: na criação de uma máquina virtual, foram mostradas as opções de configuração sem criar a VM de fato, e no banco de dados, foram apresentadas as diferentes opções disponíveis para implantação e gerenciamento.
+
+Achei o vídeo muito didático, pois conseguiu explicar conceitos teóricos importantes e, ao mesmo tempo, mostrar exemplos práticos que ajudam a visualizar como cada serviço funciona e como escolher o mais adequado para diferentes cenários.
